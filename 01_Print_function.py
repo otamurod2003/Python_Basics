@@ -30,4 +30,5 @@ print(2**5)#32=> 2 sonini 5-darajaga ko'taradi
 print("8*8= ", 8*8, " bo'ladi")
 print("48 ni  10 ga bo'lganda hosil bo'lgan sonning butun qismi",48//10, " ga teng bo'ladi")
 
-
+#bo'linmaning qoldig'ini topish
+print(15%8)
