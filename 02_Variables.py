@@ -11,5 +11,5 @@
 #o'zgaruvchi nomi kalit so'z bo'la olmaydi. Masalan for, if, else, elif, while, in, of va hokazo
 ism = "Otamurod Pirnapasov"  #String turidagi o'zgaruvchi (str)
 yosh = 20 # sonli malumotlar (int)
-
+isMarried  = false #boolean turidagi malumotlar true yoki false qiymat qabul qiladi
 print("Foydalanuchi ismi:", ism,".","Yoshi:", yosh)
