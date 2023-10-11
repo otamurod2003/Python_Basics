@@ -24,6 +24,7 @@ print(13*6)#78
 print(15/5)#3
 print(16//5)# 3=> Bo'linmaning butun qismini oladi
 print(2**5)#32=> 2 sonini 5-darajaga ko'taradi
+print(15%25)#
 
 
 #matnlar bilan arifmentik amallarni bitta funksiya ichida yozish
