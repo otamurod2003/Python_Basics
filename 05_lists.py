@@ -15,4 +15,6 @@ print(kitoblar[1]) #Arifmetika
 
 print(kitoblar[-1])# bu ekranga listning eng oxirgi elementini chiqarish uchun ishlatiladi
 
- 
+reversed_kitoblar = list(reversed(kitoblar))
+print(reversed_kitoblar)  #list elementlarini teskari tartibda ekranga chiqarish
+
