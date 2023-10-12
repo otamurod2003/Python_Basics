@@ -1,16 +1,18 @@
-x= int(input("x sonni kiriting:"))
-y=int(input("y sonni kiriting:"))
-z=int(input("z sonni kiriting:"))
-if((x>y) and (x>z)):
-    print("x katta")
-elif((y>x) and (y>z)): 
-    print("y katta")
-else:
-    print("z katta")
+#ushbu kodlar 12.10.2023-yilda yozilgan
+#Mavzu: Ro'yxatlar bilan ishlash. List
+# Dastur muallifi Pirnapasov Otamurod
+
+#biror bir list o'zgaruvchisini olaylik
+
+kitoblar = ['Algebra','Arifmetika','Geometriya']
+print(kitoblar)    #list type mana shunaqa e'lon qilinadi
 
 
-soni = (input('Nechta son kiritmoqchisiz'))
+#list ichidagi elementlarga murojaat qilish
+print(kitoblar[0]) #ekranga kitoblar listining 1 elementini chiqariladi
 
-for k in soni :
-    print(input(k, ' sonni kiriting: '))
-                 
+print(kitoblar[1]) #Arifmetika
+
+print(kitoblar[-1])# bu ekranga listning eng oxirgi elementini chiqarish uchun ishlatiladi
+
+ 
